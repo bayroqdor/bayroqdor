@@ -11,11 +11,21 @@ Hello! I'm Bayroqdor, a passionate developer who loves to create innovative and 
 - 💬 Ask me about anything related to programming and tech.
 - 📫 How to reach me: [Email](mailto:muhsinbekofficial@gmail.com)
 
-## My Skills
 
-- **Languages:** Python, JavaScript, C++
-- **Frameworks:** Django
-- **Tools:** Git, Docker, VS Code
+## Languages and Tools<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+
+<p>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
 
 ## Connect with Me
 
@@ -28,3 +38,4 @@ Hello! I'm Bayroqdor, a passionate developer who loves to create innovative and 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bayroqdor&layout=compact&theme=radical)
 
 Thank you for visiting my profile! Have a great day! 😊
+
