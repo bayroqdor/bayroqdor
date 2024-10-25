@@ -1,6 +1,6 @@
 # Welcome to Bayroqdor's GitHub Profile! 🌟
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Bayroqdor's+GitHub+Profile)
+![Profile Banner](https://github.com/bayroqdor/bayroqdor/blob/main/banner.png)
 
 ## About Me
 
